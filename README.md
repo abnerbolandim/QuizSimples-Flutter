@@ -1,4 +1,4 @@
-# flutter_quiz #
+# flutter_quiz
 
 flutter_quiz was made only for didactic purposes in 
 classes, this application about answering the question 
